@@ -1,0 +1,9 @@
+This is an attempt at consolidating the particle-tracking code that I used
+to simulate scallop larval dispersal in my M.Sc thesis at Dalhousie University.
+
+The MATLAB classes and helper functions located here provide a simple syntax
+for generating and analyzing the results that were published in that thesis
+(http://myweb.dal.ca/ch273514/gilbert_thesis.pdf).
+
+The code isn't fully organized, but it's now hosted here in the interest of 
+scientific openness.
